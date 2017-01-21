@@ -13,7 +13,7 @@ body {
   margin: 0;
   font-family: 'Work Sans', Arial, Helvetica, sans-serif;
   min-height: 100%;
-  background: linear-gradient(to bottom, #68EACC 0%, #497BE8 100%);
+  background: linear-gradient(to bottom, #B5AD88 0%, #FE8904 100%);
   color: #777;
 }
 img {
@@ -85,8 +85,8 @@ button {
   transform: translateX(-50%);
   border-radius: 1.25em;
   overflow: hidden;
-  width: 4.5em;
-  height: 4.5em;
+  width: 7em;
+  height: 8.5em;
   display: block;
   transition: transform .3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   will-change: transform;
@@ -95,7 +95,7 @@ button {
   outline: 0;
 }
 .profile__footer {
-  padding-top: 1em;
+  padding-top: 5em;
 }
 
 
@@ -145,7 +145,7 @@ input:valid + .label {
   line-height: 2.5rem;
   padding: 0 1.5rem;
   color: white;
-  background: #8E49E8;
+  background: #FFAB25;
   text-transform: uppercase;
   border-radius: .25rem;
   letter-spacing: .2em;
@@ -156,7 +156,7 @@ input:valid + .label {
 }
 .btn:hover,
 .btn:focus {
-  background: #A678E2;
+  background: #879280;
 }
 
 
